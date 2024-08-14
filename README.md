@@ -72,3 +72,4 @@ setTimeout(function () {
     -  That number is in milliseconds (1000 = 1 second) and tells the browser how long to wait before firing off the code. We have to wait a little bit for Mapify to render the map and pins.
 
         *I think it's a hard timer, so network speeds shouldn't affect it*
+11. Go to the map config page in wp-admin and add the location tag to the map. It will not work without this!
